@@ -1,0 +1,23 @@
+Member:
+  - m.default
+Elite:
+  - m.default
+  - m.elite
+Premium:
+  - m.default
+  - m.premium
+Champion:
+  - m.default
+  - m.champion
+jMod:
+  - m.default
+  - m.jrmod
+sMod:
+  - m.default
+  - m.jrmod
+  - m.srmod
+Admin:
+  - m.jrmod
+  - m.srmod
+  - m.default
+  - m.admin

@@ -1,0 +1,5 @@
+news: Testing 1,2,3
+server-rules:
+  - 'No hacked client'
+broadcast:
+  - '&7Follow &b@mc_tourney&7 on Twitter for the latest updates!'

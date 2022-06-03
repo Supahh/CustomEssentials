@@ -1,0 +1,31 @@
+name: Shared
+main: mctourney.plugins.shared.Shared
+website: mctourney.com
+author: JonathanH
+version: 1.0.0
+api-version: 1.14
+commands:
+  rules:
+  storm:
+  top:
+  kill:
+  kick:
+  god:
+  debug:
+  list:
+  whois:
+  mod:
+  perm:
+  ci:
+    aliases: [clearinventory]
+  heal:
+    aliases: [feed]
+  message:
+    aliases: [msg, tell, whisper, send, ms]
+  reply:
+    aliases: [r, fr]
+  clearchat:
+    aliases: [cc, clearcc]
+  lag:
+  help:
+    aliases: [he]
